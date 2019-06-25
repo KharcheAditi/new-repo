@@ -1,5 +1,5 @@
 var express=require('express');
-var app=expres();
+var app=express();
 
 function add(a,b){
 	return a+b;
